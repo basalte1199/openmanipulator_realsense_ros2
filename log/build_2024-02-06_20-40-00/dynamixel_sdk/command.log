@@ -1,0 +1,4 @@
+Invoking command in '/home/koki/openmanipulator_ws/build/dynamixel_sdk': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/koki/openmanipulator_ws/build/dynamixel_sdk -- -j20 -l20
+Invoked command in '/home/koki/openmanipulator_ws/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/koki/openmanipulator_ws/build/dynamixel_sdk -- -j20 -l20
+Invoking command in '/home/koki/openmanipulator_ws/build/dynamixel_sdk': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/koki/openmanipulator_ws/build/dynamixel_sdk
+Invoked command in '/home/koki/openmanipulator_ws/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/koki/openmanipulator_ws/build/dynamixel_sdk

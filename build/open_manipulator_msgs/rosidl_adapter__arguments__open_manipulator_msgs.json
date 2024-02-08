@@ -1,0 +1,14 @@
+{
+  "package_name": "open_manipulator_msgs",
+  "non_idl_tuples": [
+    "/home/koki/openmanipulator_ws/src/open_manipulator_msgs:msg/JointPosition.msg",
+    "/home/koki/openmanipulator_ws/src/open_manipulator_msgs:msg/KinematicsPose.msg",
+    "/home/koki/openmanipulator_ws/src/open_manipulator_msgs:msg/OpenManipulatorState.msg",
+    "/home/koki/openmanipulator_ws/src/open_manipulator_msgs:srv/GetJointPosition.srv",
+    "/home/koki/openmanipulator_ws/src/open_manipulator_msgs:srv/GetKinematicsPose.srv",
+    "/home/koki/openmanipulator_ws/src/open_manipulator_msgs:srv/SetJointPosition.srv",
+    "/home/koki/openmanipulator_ws/src/open_manipulator_msgs:srv/SetKinematicsPose.srv",
+    "/home/koki/openmanipulator_ws/src/open_manipulator_msgs:srv/SetDrawingTrajectory.srv",
+    "/home/koki/openmanipulator_ws/src/open_manipulator_msgs:srv/SetActuatorState.srv"
+  ]
+}

@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/koki/openmanipulator_ws/build/open_manipulator_x_libs/libopen_manipulator_x_libs.so" "TARGETS" "open_manipulator_x_libs" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin/open_manipulator_x_libs")

@@ -1,0 +1,18 @@
+[0.443s] Invoking command in '/home/koki/openmanipulator_ws/build/open_manipulator_x_teleop': AMENT_PREFIX_PATH=/home/koki/openmanipulator_ws/install/open_manipulator_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/koki/openmanipulator_ws/install/open_manipulator_msgs LD_LIBRARY_PATH=/home/koki/openmanipulator_ws/install/open_manipulator_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda/lib64 PYTHONPATH=/home/koki/openmanipulator_ws/build/open_manipulator_x_teleop/prefix_override:/home/koki/openmanipulator_ws/install/open_manipulator_x_teleop/lib/python3.10/site-packages:/home/koki/openmanipulator_ws/install/open_manipulator_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/koki/openmanipulator_ws/build/open_manipulator_x_teleop/build --no-deps install_data
+[0.587s] running develop
+[0.675s] running egg_info
+[0.675s] writing open_manipulator_x_teleop.egg-info/PKG-INFO
+[0.675s] writing dependency_links to open_manipulator_x_teleop.egg-info/dependency_links.txt
+[0.675s] writing entry points to open_manipulator_x_teleop.egg-info/entry_points.txt
+[0.675s] writing requirements to open_manipulator_x_teleop.egg-info/requires.txt
+[0.675s] writing top-level names to open_manipulator_x_teleop.egg-info/top_level.txt
+[0.676s] reading manifest file 'open_manipulator_x_teleop.egg-info/SOURCES.txt'
+[0.677s] writing manifest file 'open_manipulator_x_teleop.egg-info/SOURCES.txt'
+[0.700s] running build_ext
+[0.700s] Creating /home/koki/openmanipulator_ws/install/open_manipulator_x_teleop/lib/python3.10/site-packages/open-manipulator-x-teleop.egg-link (link to .)
+[0.700s] Installing teleop_keyboard script to /home/koki/openmanipulator_ws/install/open_manipulator_x_teleop/lib/open_manipulator_x_teleop
+[0.700s] Installing teleop_realsense script to /home/koki/openmanipulator_ws/install/open_manipulator_x_teleop/lib/open_manipulator_x_teleop
+[0.701s] 
+[0.701s] Installed /home/koki/openmanipulator_ws/build/open_manipulator_x_teleop
+[0.701s] running install_data
+[0.719s] Invoked command in '/home/koki/openmanipulator_ws/build/open_manipulator_x_teleop' returned '0': AMENT_PREFIX_PATH=/home/koki/openmanipulator_ws/install/open_manipulator_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/koki/openmanipulator_ws/install/open_manipulator_msgs LD_LIBRARY_PATH=/home/koki/openmanipulator_ws/install/open_manipulator_msgs/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda/lib64 PYTHONPATH=/home/koki/openmanipulator_ws/build/open_manipulator_x_teleop/prefix_override:/home/koki/openmanipulator_ws/install/open_manipulator_x_teleop/lib/python3.10/site-packages:/home/koki/openmanipulator_ws/install/open_manipulator_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/koki/openmanipulator_ws/build/open_manipulator_x_teleop/build --no-deps install_data

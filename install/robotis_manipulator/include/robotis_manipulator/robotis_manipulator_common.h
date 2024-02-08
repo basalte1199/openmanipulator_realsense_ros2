@@ -1,0 +1,1 @@
+/home/koki/openmanipulator_ws/src/robotis_manipulator/include/robotis_manipulator/robotis_manipulator_common.h

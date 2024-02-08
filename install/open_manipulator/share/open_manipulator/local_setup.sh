@@ -1,0 +1,1 @@
+/home/koki/openmanipulator_ws/build/open_manipulator/ament_cmake_environment_hooks/local_setup.sh

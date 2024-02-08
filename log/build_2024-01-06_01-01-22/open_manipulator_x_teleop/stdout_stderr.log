@@ -1,0 +1,26 @@
+running develop
+/usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running egg_info
+creating open_manipulator_x_teleop.egg-info
+writing open_manipulator_x_teleop.egg-info/PKG-INFO
+writing dependency_links to open_manipulator_x_teleop.egg-info/dependency_links.txt
+writing entry points to open_manipulator_x_teleop.egg-info/entry_points.txt
+writing requirements to open_manipulator_x_teleop.egg-info/requires.txt
+writing top-level names to open_manipulator_x_teleop.egg-info/top_level.txt
+writing manifest file 'open_manipulator_x_teleop.egg-info/SOURCES.txt'
+reading manifest file 'open_manipulator_x_teleop.egg-info/SOURCES.txt'
+writing manifest file 'open_manipulator_x_teleop.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/koki/openmanipulator_ws/install/open_manipulator_x_teleop/lib/python3.10/site-packages/open-manipulator-x-teleop.egg-link (link to .)
+Installing teleop_keyboard script to /home/koki/openmanipulator_ws/install/open_manipulator_x_teleop/lib/open_manipulator_x_teleop
+
+Installed /home/koki/openmanipulator_ws/build/open_manipulator_x_teleop
+running install_data
+creating /home/koki/openmanipulator_ws/install/open_manipulator_x_teleop/share/ament_index
+creating /home/koki/openmanipulator_ws/install/open_manipulator_x_teleop/share/ament_index/resource_index
+creating /home/koki/openmanipulator_ws/install/open_manipulator_x_teleop/share/ament_index/resource_index/packages
+copying resource/open_manipulator_x_teleop -> /home/koki/openmanipulator_ws/install/open_manipulator_x_teleop/share/ament_index/resource_index/packages
+copying package.xml -> /home/koki/openmanipulator_ws/install/open_manipulator_x_teleop/share/open_manipulator_x_teleop

@@ -1,0 +1,78 @@
+[0.067s] Invoking command in '/home/koki/openmanipulator_ws/build/robotis_manipulator': CMAKE_PREFIX_PATH=/home/koki/openmanipulator_ws/install/cmake_modules:/home/koki/openmanipulator_ws/install/open_manipulator:/home/koki/openmanipulator_ws/install/open_manipulator_x_controller:/home/koki/openmanipulator_ws/install/open_manipulator_x_libs:/home/koki/openmanipulator_ws/install/robotis_manipulator:/home/koki/openmanipulator_ws/install/open_manipulator_x_description:/home/koki/openmanipulator_ws/install/open_manipulator_msgs:/home/koki/openmanipulator_ws/install/dynamixel_workbench:/home/koki/openmanipulator_ws/install/dynamixel_workbench_toolbox:/home/koki/openmanipulator_ws/install/dynamixel_sdk_examples:/home/koki/openmanipulator_ws/install/dynamixel_sdk_custom_interfaces:/home/koki/openmanipulator_ws/install/dynamixel_sdk:/home/koki/openmanipulator_ws/install/open_manipulator_x_teleop:/opt/ros/humble /usr/local/bin/cmake /home/koki/openmanipulator_ws/src/robotis_manipulator -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/koki/openmanipulator_ws/install/robotis_manipulator
+[0.092s] -- The C compiler identification is GNU 11.4.0
+[0.120s] -- The CXX compiler identification is GNU 11.4.0
+[0.124s] -- Detecting C compiler ABI info
+[0.149s] -- Detecting C compiler ABI info - done
+[0.153s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.153s] -- Detecting C compile features
+[0.154s] -- Detecting C compile features - done
+[0.155s] -- Detecting CXX compiler ABI info
+[0.187s] -- Detecting CXX compiler ABI info - done
+[0.192s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.192s] -- Detecting CXX compile features
+[0.193s] -- Detecting CXX compile features - done
+[0.200s] -- Found ament_cmake: 1.3.6 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.298s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.331s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.349s] -- Found cmake_modules: 0.4.1 (/home/koki/openmanipulator_ws/install/cmake_modules/share/cmake_modules/cmake)
+[0.351s] -- Found rclcpp: 16.0.7 (/opt/ros/humble/share/rclcpp/cmake)
+[0.381s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.385s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.390s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.400s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.412s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.470s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.475s] -- Found rmw_fastrtps_cpp: 6.2.5 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.563s] -- Found OpenSSL: /usr/local/lib/libcrypto.so (found version "1.1.1w")  
+[0.576s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.603s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.612s] -- Looking for pthread.h
+[0.659s] -- Looking for pthread.h - found
+[0.659s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.709s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.711s] -- Found Threads: TRUE  
+[0.879s] -- Configuring done
+[0.888s] -- Generating done
+[0.889s] -- Build files have been written to: /home/koki/openmanipulator_ws/build/robotis_manipulator
+[0.896s] Invoked command in '/home/koki/openmanipulator_ws/build/robotis_manipulator' returned '0': CMAKE_PREFIX_PATH=/home/koki/openmanipulator_ws/install/cmake_modules:/home/koki/openmanipulator_ws/install/open_manipulator:/home/koki/openmanipulator_ws/install/open_manipulator_x_controller:/home/koki/openmanipulator_ws/install/open_manipulator_x_libs:/home/koki/openmanipulator_ws/install/robotis_manipulator:/home/koki/openmanipulator_ws/install/open_manipulator_x_description:/home/koki/openmanipulator_ws/install/open_manipulator_msgs:/home/koki/openmanipulator_ws/install/dynamixel_workbench:/home/koki/openmanipulator_ws/install/dynamixel_workbench_toolbox:/home/koki/openmanipulator_ws/install/dynamixel_sdk_examples:/home/koki/openmanipulator_ws/install/dynamixel_sdk_custom_interfaces:/home/koki/openmanipulator_ws/install/dynamixel_sdk:/home/koki/openmanipulator_ws/install/open_manipulator_x_teleop:/opt/ros/humble /usr/local/bin/cmake /home/koki/openmanipulator_ws/src/robotis_manipulator -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/koki/openmanipulator_ws/install/robotis_manipulator
+[0.898s] Invoking command in '/home/koki/openmanipulator_ws/build/robotis_manipulator': CMAKE_PREFIX_PATH=/home/koki/openmanipulator_ws/install/cmake_modules:/home/koki/openmanipulator_ws/install/open_manipulator:/home/koki/openmanipulator_ws/install/open_manipulator_x_controller:/home/koki/openmanipulator_ws/install/open_manipulator_x_libs:/home/koki/openmanipulator_ws/install/robotis_manipulator:/home/koki/openmanipulator_ws/install/open_manipulator_x_description:/home/koki/openmanipulator_ws/install/open_manipulator_msgs:/home/koki/openmanipulator_ws/install/dynamixel_workbench:/home/koki/openmanipulator_ws/install/dynamixel_workbench_toolbox:/home/koki/openmanipulator_ws/install/dynamixel_sdk_examples:/home/koki/openmanipulator_ws/install/dynamixel_sdk_custom_interfaces:/home/koki/openmanipulator_ws/install/dynamixel_sdk:/home/koki/openmanipulator_ws/install/open_manipulator_x_teleop:/opt/ros/humble /usr/local/bin/cmake --build /home/koki/openmanipulator_ws/build/robotis_manipulator -- -j20 -l20
+[0.914s] [ 28%] [32mBuilding CXX object CMakeFiles/robotis_manipulator.dir/src/robotis_manipulator/robotis_manipulator.cpp.o[0m
+[0.914s] [ 42%] [32mBuilding CXX object CMakeFiles/robotis_manipulator.dir/src/robotis_manipulator/robotis_manipulator_log.cpp.o[0m
+[0.915s] [ 42%] [32mBuilding CXX object CMakeFiles/robotis_manipulator.dir/src/robotis_manipulator/robotis_manipulator_manager.cpp.o[0m
+[0.915s] [ 57%] [32mBuilding CXX object CMakeFiles/robotis_manipulator.dir/src/robotis_manipulator/robotis_manipulator_common.cpp.o[0m
+[0.915s] [ 71%] [32mBuilding CXX object CMakeFiles/robotis_manipulator.dir/src/robotis_manipulator/robotis_manipulator_math.cpp.o[0m
+[0.928s] [ 85%] [32mBuilding CXX object CMakeFiles/robotis_manipulator.dir/src/robotis_manipulator/robotis_manipulator_trajectory_generator.cpp.o[0m
+[4.949s] [100%] [32m[1mLinking CXX shared library librobotis_manipulator.so[0m
+[5.106s] [100%] Built target robotis_manipulator
+[5.109s] Invoked command in '/home/koki/openmanipulator_ws/build/robotis_manipulator' returned '0': CMAKE_PREFIX_PATH=/home/koki/openmanipulator_ws/install/cmake_modules:/home/koki/openmanipulator_ws/install/open_manipulator:/home/koki/openmanipulator_ws/install/open_manipulator_x_controller:/home/koki/openmanipulator_ws/install/open_manipulator_x_libs:/home/koki/openmanipulator_ws/install/robotis_manipulator:/home/koki/openmanipulator_ws/install/open_manipulator_x_description:/home/koki/openmanipulator_ws/install/open_manipulator_msgs:/home/koki/openmanipulator_ws/install/dynamixel_workbench:/home/koki/openmanipulator_ws/install/dynamixel_workbench_toolbox:/home/koki/openmanipulator_ws/install/dynamixel_sdk_examples:/home/koki/openmanipulator_ws/install/dynamixel_sdk_custom_interfaces:/home/koki/openmanipulator_ws/install/dynamixel_sdk:/home/koki/openmanipulator_ws/install/open_manipulator_x_teleop:/opt/ros/humble /usr/local/bin/cmake --build /home/koki/openmanipulator_ws/build/robotis_manipulator -- -j20 -l20
+[5.124s] Invoking command in '/home/koki/openmanipulator_ws/build/robotis_manipulator': CMAKE_PREFIX_PATH=/home/koki/openmanipulator_ws/install/cmake_modules:/home/koki/openmanipulator_ws/install/open_manipulator:/home/koki/openmanipulator_ws/install/open_manipulator_x_controller:/home/koki/openmanipulator_ws/install/open_manipulator_x_libs:/home/koki/openmanipulator_ws/install/robotis_manipulator:/home/koki/openmanipulator_ws/install/open_manipulator_x_description:/home/koki/openmanipulator_ws/install/open_manipulator_msgs:/home/koki/openmanipulator_ws/install/dynamixel_workbench:/home/koki/openmanipulator_ws/install/dynamixel_workbench_toolbox:/home/koki/openmanipulator_ws/install/dynamixel_sdk_examples:/home/koki/openmanipulator_ws/install/dynamixel_sdk_custom_interfaces:/home/koki/openmanipulator_ws/install/dynamixel_sdk:/home/koki/openmanipulator_ws/install/open_manipulator_x_teleop:/opt/ros/humble /usr/local/bin/cmake --install /home/koki/openmanipulator_ws/build/robotis_manipulator
+[5.125s] -- Install configuration: ""
+[5.125s] -- Execute custom install script
+[5.125s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/lib/librobotis_manipulator.so
+[5.127s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/include//robotis_manipulator/robotis_manipulator.h
+[5.128s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/include//robotis_manipulator/robotis_manipulator_common.h
+[5.130s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/include//robotis_manipulator/robotis_manipulator_log.h
+[5.131s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/include//robotis_manipulator/robotis_manipulator_manager.h
+[5.133s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/include//robotis_manipulator/robotis_manipulator_math.h
+[5.134s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/include//robotis_manipulator/robotis_manipulator_trajectory_generator.h
+[5.135s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/robotis_manipulator/environment/library_path.sh
+[5.137s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/robotis_manipulator/environment/library_path.dsv
+[5.138s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/ament_index/resource_index/package_run_dependencies/robotis_manipulator
+[5.140s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/ament_index/resource_index/parent_prefix_path/robotis_manipulator
+[5.141s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/robotis_manipulator/environment/ament_prefix_path.sh
+[5.143s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/robotis_manipulator/environment/ament_prefix_path.dsv
+[5.144s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/robotis_manipulator/environment/path.sh
+[5.146s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/robotis_manipulator/environment/path.dsv
+[5.147s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/robotis_manipulator/local_setup.bash
+[5.148s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/robotis_manipulator/local_setup.sh
+[5.150s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/robotis_manipulator/local_setup.zsh
+[5.151s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/robotis_manipulator/local_setup.dsv
+[5.152s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/robotis_manipulator/package.dsv
+[5.154s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/ament_index/resource_index/packages/robotis_manipulator
+[5.155s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/robotis_manipulator/cmake/ament_cmake_export_include_directories-extras.cmake
+[5.157s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/robotis_manipulator/cmake/ament_cmake_export_dependencies-extras.cmake
+[5.158s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/robotis_manipulator/cmake/ament_cmake_export_libraries-extras.cmake
+[5.159s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/robotis_manipulator/cmake/robotis_manipulatorConfig.cmake
+[5.161s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/robotis_manipulator/cmake/robotis_manipulatorConfig-version.cmake
+[5.162s] -- Symlinking: /home/koki/openmanipulator_ws/install/robotis_manipulator/share/robotis_manipulator/package.xml
+[5.165s] Invoked command in '/home/koki/openmanipulator_ws/build/robotis_manipulator' returned '0': CMAKE_PREFIX_PATH=/home/koki/openmanipulator_ws/install/cmake_modules:/home/koki/openmanipulator_ws/install/open_manipulator:/home/koki/openmanipulator_ws/install/open_manipulator_x_controller:/home/koki/openmanipulator_ws/install/open_manipulator_x_libs:/home/koki/openmanipulator_ws/install/robotis_manipulator:/home/koki/openmanipulator_ws/install/open_manipulator_x_description:/home/koki/openmanipulator_ws/install/open_manipulator_msgs:/home/koki/openmanipulator_ws/install/dynamixel_workbench:/home/koki/openmanipulator_ws/install/dynamixel_workbench_toolbox:/home/koki/openmanipulator_ws/install/dynamixel_sdk_examples:/home/koki/openmanipulator_ws/install/dynamixel_sdk_custom_interfaces:/home/koki/openmanipulator_ws/install/dynamixel_sdk:/home/koki/openmanipulator_ws/install/open_manipulator_x_teleop:/opt/ros/humble /usr/local/bin/cmake --install /home/koki/openmanipulator_ws/build/robotis_manipulator
